@@ -1,0 +1,20 @@
+*{
+    background-color: azure;
+    font-style: italics
+}
+
+
+h1{
+    color:blue;
+}
+h2{
+    color:green;
+    text-align:center;
+    font-style: italics;
+} 
+p{
+    font-family: sans-serif;
+}
+ul{
+    line-height:40px;
+}
